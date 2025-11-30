@@ -1,0 +1,19 @@
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+D:\Code\npv-player\NpvPlayer\MainWindow.xaml(72,110): error CS1061: 'MainWindow' does not contain a definition for 'MenuQuit_Click' and no accessible extension method 'MenuQuit_Click' accepting a first argument of type 'MainWindow' could be found (are you missing a using directive or an assembly reference?) [D:\Code\npv-player\NpvPlayer\NpvPlayer_xfodftgk_wpftmp.csproj]
+D:\Code\npv-player\NpvPlayer\MainWindow.xaml(76,110): error CS1061: 'MainWindow' does not contain a definition for 'BtnPause_Click' and no accessible extension method 'BtnPause_Click' accepting a first argument of type 'MainWindow' could be found (are you missing a using directive or an assembly reference?) [D:\Code\npv-player\NpvPlayer\NpvPlayer_xfodftgk_wpftmp.csproj]
+D:\Code\npv-player\NpvPlayer\MainWindow.xaml(79,110): error CS1061: 'MainWindow' does not contain a definition for 'MenuPrevFrame_Click' and no accessible extension method 'MenuPrevFrame_Click' accepting a first argument of type 'MainWindow' could be found (are you missing a using directive or an assembly reference?) [D:\Code\npv-player\NpvPlayer\NpvPlayer_xfodftgk_wpftmp.csproj]
+D:\Code\npv-player\NpvPlayer\MainWindow.xaml(80,110): error CS1061: 'MainWindow' does not contain a definition for 'MenuNextFrame_Click' and no accessible extension method 'MenuNextFrame_Click' accepting a first argument of type 'MainWindow' could be found (are you missing a using directive or an assembly reference?) [D:\Code\npv-player\NpvPlayer\NpvPlayer_xfodftgk_wpftmp.csproj]
+D:\Code\npv-player\NpvPlayer\MainWindow.xaml(299,79): error CS1061: 'MainWindow' does not contain a definition for 'BtnPause_Click' and no accessible extension method 'BtnPause_Click' accepting a first argument of type 'MainWindow' could be found (are you missing a using directive or an assembly reference?) [D:\Code\npv-player\NpvPlayer\NpvPlayer_xfodftgk_wpftmp.csproj]
+
+Build FAILED.
+
+D:\Code\npv-player\NpvPlayer\MainWindow.xaml(72,110): error CS1061: 'MainWindow' does not contain a definition for 'MenuQuit_Click' and no accessible extension method 'MenuQuit_Click' accepting a first argument of type 'MainWindow' could be found (are you missing a using directive or an assembly reference?) [D:\Code\npv-player\NpvPlayer\NpvPlayer_xfodftgk_wpftmp.csproj]
+D:\Code\npv-player\NpvPlayer\MainWindow.xaml(76,110): error CS1061: 'MainWindow' does not contain a definition for 'BtnPause_Click' and no accessible extension method 'BtnPause_Click' accepting a first argument of type 'MainWindow' could be found (are you missing a using directive or an assembly reference?) [D:\Code\npv-player\NpvPlayer\NpvPlayer_xfodftgk_wpftmp.csproj]
+D:\Code\npv-player\NpvPlayer\MainWindow.xaml(79,110): error CS1061: 'MainWindow' does not contain a definition for 'MenuPrevFrame_Click' and no accessible extension method 'MenuPrevFrame_Click' accepting a first argument of type 'MainWindow' could be found (are you missing a using directive or an assembly reference?) [D:\Code\npv-player\NpvPlayer\NpvPlayer_xfodftgk_wpftmp.csproj]
+D:\Code\npv-player\NpvPlayer\MainWindow.xaml(80,110): error CS1061: 'MainWindow' does not contain a definition for 'MenuNextFrame_Click' and no accessible extension method 'MenuNextFrame_Click' accepting a first argument of type 'MainWindow' could be found (are you missing a using directive or an assembly reference?) [D:\Code\npv-player\NpvPlayer\NpvPlayer_xfodftgk_wpftmp.csproj]
+D:\Code\npv-player\NpvPlayer\MainWindow.xaml(299,79): error CS1061: 'MainWindow' does not contain a definition for 'BtnPause_Click' and no accessible extension method 'BtnPause_Click' accepting a first argument of type 'MainWindow' could be found (are you missing a using directive or an assembly reference?) [D:\Code\npv-player\NpvPlayer\NpvPlayer_xfodftgk_wpftmp.csproj]
+    0 Warning(s)
+    5 Error(s)
+
+Time Elapsed 00:00:01.53
